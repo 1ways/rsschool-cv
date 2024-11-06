@@ -63,3 +63,20 @@ Passionate and dedicated Computer Science student with a solid foundation experi
         return sameArr.length || 0
     }
     ```
+
+## Experience
+- Freelance project (2024 September)
+
+    Link - [https://eclectic-paprenjak-f2cd5e.netlify.app/](https://eclectic-paprenjak-f2cd5e.netlify.app/)
+
+## Education
+- Wyższa Szkoła Przedsiębiorczości i Administracji w Lublinie
+
+    _Bachelor of Computer Science - Front-end developer_
+
+    __Oct 2023 - Present__
+
+## English
+I have B1-B2 level of English.
+
+I studied it at school and at tutoring, and I also watch or read a lot of content in English.
