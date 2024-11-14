@@ -6,6 +6,8 @@ Phone: 795 029 892
 
 Email: antonhryschuk@gmail.com
 
+Discord: Anton Hryshchuk(@1ways)
+
 [Github](https://github.com/1ways)
 
 [LinkedIn](https://www.linkedin.com/in/anton-hryshchuk-4a9a01304/)
