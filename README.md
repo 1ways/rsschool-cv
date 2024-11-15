@@ -1,1 +1,2 @@
-https://1ways.github.io/rsschool-cv/cv
+- [https://1ways.github.io/rsschool-cv/cv](https://1ways.github.io/rsschool-cv/cv)
+- [https://1ways.github.io/rsschool-cv/](https://1ways.github.io/rsschool-cv/)
