@@ -94,40 +94,7 @@
                     "Find the unique number" - JavaScript problem
                     <pre>
                         <code>
-const findUniq = arr => {
-    const set = new Set(arr)
-    const arr2 = [...set]
-
-    let count = 0
-    for (let i = 0; i &lt arr.length; i++) { 
-        if (arr[i]===arr2[0]) { 
-            count +=1 
-        } 
-    } 
-    return count> 1 ? arr2[1] : arr2[0]
-}
-                        </code>
-                    </pre>
-                </li>
-                <li class="section-list__item">
-                    "Counting Duplicates" - JavaScript problem
-                    <pre>
-                        <code>
-const duplicateCount = text => {}
-    const textLowerCase = text.toLowerCase()
-    let sameArr = []
-    for (let i = 0; i &lt textLowerCase.length; i++) { 
-        const currentSymbolPos=textLowerCase.indexOf(textLowerCase[i]) 
-        const modifyStr=`${textLowerCase.slice(0, currentSymbolPos)}${textLowerCase.slice(currentSymbolPos + 1, textLowerCase.length)}` 
-        for (let j=0; j &lt modifyStr.length; j++) { 
-            if (textLowerCase[i]===modifyStr[j]) { 
-                if (!sameArr.includes(textLowerCase[i])) { 
-                    sameArr.push(textLowerCase[i]) 
-                } 
-            } 
-        } 
-    return sameArr.length || 0 
-}
+                            console.log(1 + 2);
                         </code>
                     </pre>
                 </li>
