@@ -99,7 +99,7 @@ const findUniq = arr => {
     const arr2 = [...set]
 
     let count = 0
-    for (let i = 0; i < arr.length; i++) { 
+    for (let i = 0; i &lt arr.length; i++) { 
         if (arr[i]===arr2[0]) { 
             count +=1 
         } 
@@ -113,13 +113,13 @@ const findUniq = arr => {
                     "Counting Duplicates" - JavaScript problem
                     <pre>
                         <code>
-const duplicateCount = text => {
+const duplicateCount = text => {}
     const textLowerCase = text.toLowerCase()
     let sameArr = []
-    for (let i = 0; i < textLowerCase.length; i++) { 
+    for (let i = 0; i &lt textLowerCase.length; i++) { 
         const currentSymbolPos=textLowerCase.indexOf(textLowerCase[i]) 
         const modifyStr=`${textLowerCase.slice(0, currentSymbolPos)}${textLowerCase.slice(currentSymbolPos + 1, textLowerCase.length)}` 
-        for (let j=0; j < modifyStr.length; j++) { 
+        for (let j=0; j &lt modifyStr.length; j++) { 
             if (textLowerCase[i]===modifyStr[j]) { 
                 if (!sameArr.includes(textLowerCase[i])) { 
                     sameArr.push(textLowerCase[i]) 
